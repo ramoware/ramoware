@@ -6,20 +6,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/ramoware"><img src="https://img.shields.io/badge/GitHub-ramoware-181717?logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:ramoware@gmail.com"><img src="https://img.shields.io/badge/Email-ramoware@gmail.com-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/ramoware"><img src="https://img.shields.io/badge/LinkedIn-ramoware-blue?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/ramoware?label=Followers&style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/ramoware?style=social" alt="Stars" />
-  <img src="https://img.shields.io/github/commit-activity/m/ramoware/ML-Learning?style=flat-square" alt="Commit Activity" />
-</p>
-
----
-
 ### 🧭 About Me
 
 I’m a curious technologist driven by a simple principle: **understand the system, then improve it.**  
@@ -64,8 +50,10 @@ I’ve worked on projects for **private businesses**, developed **automation too
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ramoware&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramoware&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramoware&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -82,15 +70,6 @@ I’ve worked on projects for **private businesses**, developed **automation too
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
----
-
-### 💬 Connect & Collaborate
-
-<p align="center">
-  <a href="mailto:ramoware@gmail.com"><img src="https://img.shields.io/badge/Contact-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ramoware"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
